@@ -3,6 +3,9 @@ Storage for components that are no longer actively supported. While these compon
 
 ## Contents
 
+#### AzureOcrTextDetection
+OCR text detection using Azure's OCR API (outdated, see [link](https://learn.microsoft.com/en-us/answers/questions/128958/what-is-the-difference-between-ocr-api-and-read-ap)).
+
 ### DarknetDetection
 Yolo object detection based on the Darknet library.
 
